@@ -62,4 +62,10 @@ If you’ve ever stared at a stuttering menu and thought:
 You belong here.
 
 ---
+
+## ✍️ About the Founder
+
+BareMetal was founded by **Trevor Honer**, a developer, creator, and rebel against hardware tyranny. This project is open to anyone who shares the vision.
+
+---
 > **Optimize the fuel, not the engine.**
