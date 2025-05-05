@@ -6,6 +6,12 @@ BareMetal is an open-source, ultra-optimized game engine forked from Godot with 
 
 > Run photorealistic graphics on the lowest possible hardware — and expose the industry's obsession with GPU bloat.
 
+🛠️ **Where’s the Code?**  
+The stripped-down, AGPL-protected engine lives here:  
+👉 [baremetal-engine-core »](https://github.com/baremetal-engine/baremetal-engine-core)
+
+We're actively gutting the bloat and optimizing for *brutal efficiency*.
+
 ### 🔥 Our Mission
 
 The modern gaming industry has locked photorealism behind $1,000 GPUs and wasteful engines. We believe:
