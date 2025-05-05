@@ -20,6 +20,55 @@ BareMetal is an open-source, ultra-optimized game engine forked from Godot with 
 
 > Run photorealistic graphics on the lowest possible hardware — and expose the industry's obsession with GPU bloat.
 
+## 💥 Why This Matters: The Code Revolution
+
+For decades, we’ve been told the only way to experience better graphics is to buy better hardware. This was never about progress — it was about profit.
+
+Every few years, the cycle repeats:
+- New games demand more power
+- Players are forced to upgrade their GPUs
+- Indie devs fall behind or give up
+- Creativity suffers
+- AMD and NVIDIA post record profits
+
+But what if that entire model is built on a lie?
+
+**BareMetal proves that you don’t need a $1,000 GPU to achieve photorealism. You just need better code.**
+
+We’ve been chasing hardware when we should’ve been chasing optimization. That ends now.
+
+---
+
+### 🧠 The New Model: Code Over Consumption
+
+Instead of a hardware arms race, we’re creating a **code race**:
+- Who can write the most elegant, efficient, and performant engine?
+- Who can help the most people game and build without gatekeepers?
+- Who can liberate the next generation of devs from GPU dependence?
+
+The answer won’t come from billion-dollar boardrooms.  
+It will come from **millions of developers** uniting around one mission:  
+> **Make high-end graphics possible for everyone, on any machine.**
+
+---
+
+### 🌎 Why Everyone Wins
+
+- 💸 **Gamers** save money — no more forced upgrades.
+- 🚀 **Indie developers** build stunning games without licensing fees or AAA pipelines.
+- 🌍 **Global access** expands — beautiful games, even on modest machines.
+- 🔌 **Environmental impact** shrinks — less e-waste, less power draw.
+- 🛠 **Engineering is reborn** — from brute-force back to craftsmanship.
+
+---
+
+BareMetal isn’t just an engine.  
+It’s a rebellion.  
+It’s a correction.  
+It’s the beginning of the end for GPU tyranny.
+
+**Join us. Optimize everything. Outcode everyone. Build the future.**
+
 ### 🔥 Our Mission
 
 The modern gaming industry has locked photorealism behind $1,000 GPUs and wasteful engines. We believe:
