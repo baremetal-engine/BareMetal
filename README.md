@@ -39,7 +39,7 @@ We’ve been chasing hardware when we should’ve been chasing optimization. Tha
 
 ---
 
-### 🧠 The New Model: Code Over Consumption
+### 🧠 The Paradigm Shift: Code Over Consumption
 
 Instead of a hardware arms race, we’re creating a **code race**:
 - Who can write the most elegant, efficient, and performant engine?
