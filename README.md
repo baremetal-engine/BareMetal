@@ -2,6 +2,17 @@
 
 **Photorealism. Lowest GPU possible. Always.**
 
+> ⚠️ **The industry lied to us.**
+> 
+> Since the beginning of gaming, we've been told that better experiences require more powerful hardware — that every few years, we must upgrade our GPUs, buy new consoles, and accept bloated engines as the price of progress.
+> 
+> But the truth is simpler — and more liberating: **we never needed more power, just better code.**
+> 
+> BareMetal exists to break that cycle. To prove that photorealism doesn’t demand top-tier silicon — it demands smarter engineering. This is a rebellion against GPU dependency, AAA bloat, and the idea that only corporations can make beautiful games.
+> 
+> If you've ever questioned the upgrade treadmill — you're not alone. Welcome to the resistance.
+
+## 🔧 What Is BareMetal?
 BareMetal is an open-source, ultra-optimized game engine forked from Godot with a radical goal:
 
 > Run photorealistic graphics on the lowest possible hardware — and expose the industry's obsession with GPU bloat.
