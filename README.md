@@ -50,6 +50,16 @@ The answer won’t come from billion-dollar boardrooms.
 It will come from **millions of developers** uniting around one mission:  
 > **Make high-end graphics possible for everyone, on any machine.**
 
+### ⚖️ The Two Paradigms
+
+| **The Current Paradigm**                                     | **The New Paradigm**                                               |
+|--------------------------------------------------------------|----------------------------------------------------------------------|
+| Graphics improve → **GPUs must become more powerful**        | Graphics improve → **Engines must become more optimized**           |
+| More power = more heat, more cost, more e-waste              | Smarter code = same graphics on cheaper hardware                    |
+| Indie devs pushed out by hardware demands                    | Indie devs empowered to build AAA-tier games                        |
+| Gamers forced to upgrade hardware                            | Gamers play on what they already have                               |
+| Corporations profit through dependence                       | Developers and players win through freedom                          |
+
 ---
 
 ### 🌎 Why Everyone Wins
