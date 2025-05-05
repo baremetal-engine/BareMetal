@@ -37,3 +37,13 @@ Read [`PHILOSOPHY.md`](./Philosophy.md) to understand the full cultural vision b
 
 ---
 > **Photorealism isn’t about more power. It’s about less waste.**
+
+---
+
+## 👤 Author & Founder
+
+This project was created and is maintained by **Trevor Honer**.  
+Feel free to reach out or follow the mission on GitHub.
+
+[GitHub Profile »](https://github.com/baremetal-engine)
+
