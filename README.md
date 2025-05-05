@@ -33,7 +33,7 @@ We're looking for:
 - Philosophers of efficient design
 
 ### 📜 Learn the Philosophy  
-Read [`PHILOSOPHY.md`](./PHILOSOPHY.md) to understand the full cultural vision behind BareMetal.
+Read [`PHILOSOPHY.md`](./Philosophy.md) to understand the full cultural vision behind BareMetal.
 
 ---
 > **Photorealism isn’t about more power. It’s about less waste.**
