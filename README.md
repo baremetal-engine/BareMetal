@@ -157,7 +157,7 @@ The modern gaming industry has locked photorealism behind $1,000 GPUs and wastef
 ### 💡 Key Goals
 
 - Strip Godot to the bone and optimize for *performance-first*.
-- Deliver playable demos with AAA visuals on mid-tier GPUs.
+- Deliver playable demos with AAA visuals on a PS2.
 - Build a contributor community of rebels, engineers, and artists.
 - Make the industry admit the truth: **your hardware was never the problem.**
 
