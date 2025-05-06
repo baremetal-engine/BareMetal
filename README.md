@@ -92,7 +92,8 @@ We’re forking the Godot engine to build **simple, developer-friendly tools** t
 - Use **AI-assisted workflows** to handle detail generation and optimization
 - Maintain **full artistic control** over what the player sees—without burdening the GPU
 
-Instead of relying on bloated real-time effects, BareMetal shifts the workload back to the **game engine**, where it belongs.  
+Instead of relying on bloated real-time effects, BareMetal shifts the workload back to the **game engine**, where it belongs.
+
 The result: stunning, photorealistic visuals that run on older hardware—with no compromise in quality.
 
 > The GPU should display the illusion—not calculate it.
