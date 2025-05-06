@@ -62,6 +62,21 @@ The game engine should be the source of **illusion** and **artistry** — not th
 
 ---
 
+## The Solution: Perceptual Rendering
+
+Big corporations like AMD, and NVIDIA have brainwashed the entire industry into believing that modern GPUs need Ray Tracing, DLSS, FSR, Tesallation, etc. and all these meaningless terms to achieve "superior" graphics.
+The elephant in the room is that 95% of the visuals that modern GPUs process **cannot be seen** by the human eye... yet nobody is talking about this.
+
+Instead of having the GPU waste alot of power and efficiency... what if the game itself was optimized so that **95% of the visuals are actually seen** by the human eye?
+
+This is the concept of **Perceptual Rendering.** This is nothing new, in fact it used to be industry standard in the gaming industry from the 2000s - 2010s before the paradigm shift occured for the GPU to bear graphic rendering responsibility.
+
+BareMetal aims to revive this concept on steroids by forking the Godot engine to create simple, user-friendly techniques & tools to **bake-in** advanced lighting, upscaling, shadows, textures, etc. into the game instead of the GPU bearing the responsibility.
+BareMetal will also have AI automization, meaning that developers will have the ability to use AI to automate adding these advanced effects to expedite workflow. 
+
+This gives the developer to have maximum control over the quality of the grahics by using a hybrid of manual and AI techniques.
+
+---
 ### 🧠 The Paradigm Shift: Code Over Consumption
 
 Instead of a hardware arms race, we’re creating a **code race**:
