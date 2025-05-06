@@ -105,8 +105,11 @@ We're looking for:
 - Indie devs tired of Unity/Unreal lies
 - Philosophers of efficient design
 
-### 📜 Learn the Philosophy  
-Read [`PHILOSOPHY.md`](./Philosophy.md) to understand the full cultural vision behind BareMetal.
+## 📖 Learn More
+
+- 🧠 [Philosophy](PHILOSOPHY.md): Understand the cultural and technical roots of BareMetal.
+- 🎯 [Vision](VISION.md): See where we’re headed and what success looks like.
+- 🛠️ [Governance](GOVERNANCE.md): How decisions are made, who leads, and how leadership is earned.
 
 ---
 > **Photorealism isn’t about more power. It’s about less waste.**
