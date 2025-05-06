@@ -130,6 +130,8 @@ We're looking for:
 - 🧠 [Philosophy](PHILOSOPHY.md): Understand the cultural and technical roots of BareMetal.
 - 🎯 [Vision](VISION.md): See where we’re headed and what success looks like.
 - 🛠️ [Governance](GOVERNANCE.md): How decisions are made, who leads, and how leadership is earned.
+- 📄 [GPU Gimmicks vs. Perceptual Rendering](docs/GPU-Gimmick-Breakdown.md): Why modern GPUs are 90% useless.
+
 
 ---
 > **Photorealism isn’t about more power. It’s about less waste.**
