@@ -128,7 +128,7 @@ It will come from **millions of developers** uniting behind one idea:
 
 ---
 
-### 🌎 Why Everyone Wins
+### 🌎 Why Everybody Wins
 
 - 💸 **Gamers** save money — no more forced upgrades.
 - 🚀 **Indie developers** build stunning games without licensing fees or AAA pipelines.
