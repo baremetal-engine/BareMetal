@@ -5,15 +5,18 @@
 ## 🔗 Source Code  
 👉 [baremetal-engine-core (Godot fork)](https://github.com/baremetal-engine/baremetal-engine-core)
 
-> ⚠️ **The industry lied to us.**
-> 
-> Since the beginning of gaming, we've been told that better experiences require more powerful hardware — that every few years, we must upgrade our GPUs, buy new consoles, and accept bloated engines as the price of progress.
-> 
-> But the truth is simpler — and more liberating: **we never needed more power, just better code.**
-> 
-> BareMetal exists to break that cycle. To prove that photorealism doesn’t demand top-tier silicon — it demands smarter engineering. This is a rebellion against GPU dependency, AAA bloat, and the idea that only corporations can make beautiful games.
-> 
-> If you've ever questioned the upgrade treadmill — you're not alone. Welcome to the resistance.
+> **Modern GPUs are 95% useless.**  
+> Because 95% of what they render is *never seen* by the player.
+
+**BareMetal** is a new kind of game engine built on a forgotten truth:
+You don’t need more power—you need **more control**.
+
+While the industry races to brute-force photorealism through expensive GPUs,  
+we use perceptual rendering, smart baking, and AI-assisted authoring to  
+create AAA-quality visuals that run on yesterday’s hardware—and still look better.
+
+---
+
 
 ## 🎯 The Objective
 Run photorealistic graphics on original PS2 hardware by offloading the responsibility of graphics processing to the game engine and not the GPU.
