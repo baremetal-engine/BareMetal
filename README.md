@@ -148,7 +148,7 @@ It’s the beginning of the end for GPU tyranny.
 The modern gaming industry has locked photorealism behind $1,000 GPUs and wasteful engines. We believe:
 
 - Optimization is more powerful than hardware.
-- Photorealism should be possible on a GTX 1060, Steam Deck, or less.
+- Photorealism should be possible on a GameCube, original Xbox, or PS2.
 - Game engines should empower creators — not gatekeep them.
 - The upgrade treadmill is a lie. Let’s prove it.
 
