@@ -16,7 +16,7 @@
 > If you've ever questioned the upgrade treadmill — you're not alone. Welcome to the resistance.
 
 ## 🎯 The Objective
-Run photorealistic graphics on original PS2 hardware.
+Run photorealistic graphics on original PS2 hardware by offloading the responsibility of graphics processing to the game engine and not the GPU.
 
 ## 🔧 What Is BareMetal?
 BareMetal is an open-source, ultra-optimized game engine forked from Godot with a radical goal:
