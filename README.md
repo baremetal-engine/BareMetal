@@ -1,4 +1,5 @@
 # BareMetal Engine
+_What if you could ship AAA visuals on a toaster?_
 
 > **Modern GPUs are 95% useless.**  
 > Because 95% of what they render is *never seen* by the player.
