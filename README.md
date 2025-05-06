@@ -64,17 +64,38 @@ The game engine should be the source of **illusion** and **artistry** — not th
 
 ## The Solution: Perceptual Rendering
 
-Big corporations like AMD, and NVIDIA have brainwashed the entire industry into believing that modern GPUs need Ray Tracing, DLSS, FSR, Tesallation, etc. and all these meaningless terms to achieve "superior" graphics.
-The elephant in the room is that 95% of the visuals that modern GPUs process **cannot be seen** by the human eye... yet nobody is talking about this.
+The game industry has been brainwashed.
 
-Instead of having the GPU waste alot of power and efficiency... what if the game itself was optimized so that **95% of the visuals are actually seen** by the human eye?
+Big corporations like **AMD** and **NVIDIA** have convinced developers that modern games need things like **Ray Tracing**, **DLSS**, **FSR**, **Tessellation**, and a dozen other buzzwords to achieve "superior" graphics.
 
-This is the concept of **Perceptual Rendering.** This is nothing new, in fact it used to be industry standard in the gaming industry from the 2000s - 2010s before the paradigm shift occured for the GPU to bear graphic rendering responsibility.
+But here’s the truth no one talks about:
 
-BareMetal aims to revive this concept on steroids by forking the Godot engine to create simple, user-friendly techniques & tools to **bake-in** advanced lighting, upscaling, shadows, textures, etc. into the game instead of the GPU bearing the responsibility.
-BareMetal will also have AI automization, meaning that developers will have the ability to use AI to automate adding these advanced effects to expedite workflow. 
+> **Up to 95% of what the GPU processes is never even seen by the player.**
 
-This gives the developer to have maximum control over the quality of the grahics by using a hybrid of manual and AI techniques.
+So why are we wasting power simulating lighting, shadows, and reflections the human eye can’t perceive?
+
+---
+
+### Perceptual Rendering fixes this.
+
+Perceptual Rendering is not a new idea—it’s how games were built from the PS2 era through the early 2010s:
+- Lighting was **baked**
+- Effects were **faked**
+- Visuals were **crafted for perception, not simulation**
+
+BareMetal revives this philosophy and supercharges it.
+
+We’re forking the Godot engine to build **simple, developer-friendly tools** that let you:
+- **Bake in lighting, shadows, reflections, fog, and polish**
+- Use **AI-assisted workflows** to handle detail generation and optimization
+- Maintain **full artistic control** over what the player sees—without burdening the GPU
+
+---
+
+Instead of relying on bloated real-time effects, BareMetal shifts the workload back to the **game engine**, where it belongs.  
+The result: stunning, photorealistic visuals that run on older hardware—with no compromise in quality.
+
+> The GPU should display the illusion—not calculate it.
 
 ---
 ### 🧠 The Paradigm Shift: Code Over Consumption
