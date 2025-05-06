@@ -1,6 +1,5 @@
 # BareMetal Engine
 
-**Photorealism. Lowest GPU possible. Always.**
 > **Modern GPUs are 95% useless.**  
 > Because 95% of what they render is *never seen* by the player.
 
