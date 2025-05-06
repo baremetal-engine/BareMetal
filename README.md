@@ -199,10 +199,10 @@ Our next goal is to build a toolchain that lets developers take **older games**�
 
 > Drop in an old game. Let AI do the grunt work. Polish it by hand. Ship something timeless.
 
-Whether it's a GameCube-era shooter or a Unity prototype from 2016—**we want to make it look better and run faster than ever.**
+Whether it's a GameCube-era classic or a Unity prototype from 2016—**we want to make it look better and run faster than ever.**
 
-This is not just about making new games.  
-It’s about **preserving and upgrading everything we already built**—the right way.
+**This is not just about making new games.  
+It’s about *preserving and upgrading everything we already built*—the right way.**
 
 
 ## 👤 Author & Founder
