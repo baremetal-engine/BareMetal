@@ -92,6 +92,12 @@ We’re forking the Godot engine to build **simple, developer-friendly tools** t
 - Use **AI-assisted workflows** to handle detail generation and optimization
 - Maintain **full artistic control** over what the player sees—without burdening the GPU
 
+### 🎨 What BareMetal Unlocks
+- Build in any style—2D, 3D, stylized, or photoreal
+- Focus on storytelling, aesthetics, and gameplay—not rendering hacks
+- Let AI handle the grunt work while you refine the vision
+- Ship a high-performance game without compromising the soul
+
 Instead of relying on bloated real-time effects, BareMetal shifts the workload back to the **game engine**, where it belongs.
 The result: stunning, photorealistic visuals that run on older hardware—with no compromise in quality.
 
