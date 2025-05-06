@@ -146,7 +146,7 @@ The modern gaming industry has locked photorealism behind $1,000 GPUs and wastef
 - Optimization is more powerful than hardware.
 - Photorealism should be possible on a PS2.
 - Game engines should empower creators — not gatekeep them.
-- The upgrade treadmill is a lie. Let’s prove it.
+- The upgrade treadmill is a lie. **Let’s prove it.**
 
 ### 💡 Key Goals
 
