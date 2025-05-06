@@ -31,6 +31,22 @@ And every time we succeed, we break the illusion that you need more power to hav
 
 ---
 
+## 🤖 AI and the Future of Optimization
+
+BareMetal welcomes the use of AI tools to accelerate engine development, testing, and performance tuning — **not to replace developers**, but to empower them.
+
+We believe AI is a key ally in:
+- Writing efficient boilerplate code
+- Prototyping systems rapidly
+- Benchmarking and stress-testing builds
+- Refactoring bloated logic into lean, elegant solutions
+
+As long as the resulting code honors the philosophy of **efficiency, decentralization, and accessibility**, we encourage AI-assisted contributions.
+
+Smarter code is the mission — and AI is one more tool to get there faster.
+
+---
+
 ## 🚀 Why Open Source?
 
 - So no corporation can claim or lock away our tools
