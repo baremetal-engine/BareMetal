@@ -26,7 +26,7 @@ Instead of brute-forcing visuals at runtime, we precompute everything the player
 ---
 
 ## 🔧 What Is BareMetal?
-BareMetal is an open-source, ultra-optimized game engine forked from Godot with a radical goal:
+**BareMetal** is an open-source, ultra-optimized game engine **forked from Godot** with a radical goal:
 
 > Run photorealistic graphics on the lowest possible hardware — and expose the industry's obsession with GPU bloat.
 
@@ -107,7 +107,7 @@ Instead of a hardware arms race, we’re creating a **code race**:
 - Who can liberate the next generation of devs from GPU dependence?
 
 The answer won’t come from billion-dollar boardrooms.  
-It will come from **millions of developers** uniting around one mission:  
+It will come from **millions of developers** uniting behind one idea:  
 > **Make high-end graphics possible for everyone, on any machine.**
 
 ### ⚖️ The Two Paradigms
@@ -153,7 +153,7 @@ The modern gaming industry has locked photorealism behind $1,000 GPUs and wastef
 - Strip Godot to the bone and optimize for *performance-first*.
 - Deliver playable demos with AAA visuals on mid-tier GPUs.
 - Build a contributor community of rebels, engineers, and artists.
-- Force the industry to reckon with the truth: **they've been wasting your hardware for profit**.
+- Make the industry admit the truth: **your hardware was never the problem.**
 
 ### 🛠 Want to Help?
 
