@@ -2,12 +2,6 @@
 
 **Photorealism. Lowest GPU possible. Always.**
 
-## 🔗 Source Code  
-👉 [baremetal-engine-core (Godot fork)](https://github.com/baremetal-engine/baremetal-engine-core)
-
-> **Modern GPUs are 95% useless.**  
-> Because 95% of what they render is *never seen* by the player.
-
 **BareMetal** is a new kind of game engine built on a forgotten truth:
 You don’t need more power—you need **more control**.
 
@@ -17,6 +11,13 @@ create AAA-quality visuals that run on yesterday’s hardware—and still look b
 
 ---
 
+## 🔗 Source Code  
+👉 [baremetal-engine-core (Godot fork)](https://github.com/baremetal-engine/baremetal-engine-core)
+
+> **Modern GPUs are 95% useless.**  
+> Because 95% of what they render is *never seen* by the player.
+
+---
 
 ## 🎯 The Objective
 Run photorealistic graphics on original PS2 hardware by offloading the responsibility of graphics processing to the game engine and not the GPU.
