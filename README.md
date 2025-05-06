@@ -1,5 +1,4 @@
 # BareMetal Engine
-**Neo, what if I told you... you could ship AAA visuals on a toaster?**
 
 > **Modern GPUs are 95% useless.**  
 > Because 95% of what they render is *never seen* by the player.
@@ -211,6 +210,9 @@ Whether it's a GameCube-era classic or a Unity prototype from 2016—**we want t
 **This is not just about making new games.  
 It’s about *preserving and upgrading everything we already built*—the right way.**
 
+> 🧠 Neo, what if I told you… you could ship AAA visuals on a toaster?
+> 
+> You don’t need more power. You need more control.
 
 ## 👤 Author & Founder
 
