@@ -78,8 +78,6 @@ But here’s the truth no one talks about:
 
 So why are we wasting power simulating lighting, shadows, and reflections the human eye can’t perceive?
 
----
-
 ### Perceptual Rendering fixes this.
 
 Perceptual Rendering is not a new idea—it’s how games were built from the PS2 era through the early 2010s:
@@ -94,14 +92,13 @@ We’re forking the Godot engine to build **simple, developer-friendly tools** t
 - Use **AI-assisted workflows** to handle detail generation and optimization
 - Maintain **full artistic control** over what the player sees—without burdening the GPU
 
----
-
 Instead of relying on bloated real-time effects, BareMetal shifts the workload back to the **game engine**, where it belongs.  
 The result: stunning, photorealistic visuals that run on older hardware—with no compromise in quality.
 
 > The GPU should display the illusion—not calculate it.
 
 ---
+
 ### 🧠 The Paradigm Shift: Code Over Consumption
 
 Instead of a hardware arms race, we’re creating a **code race**:
