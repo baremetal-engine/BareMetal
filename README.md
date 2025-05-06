@@ -19,7 +19,12 @@ create AAA-quality visuals that run on yesterday’s hardware—and still look b
 ---
 
 ## 🎯 The Objective
-Run photorealistic graphics on original PS2 hardware by offloading the responsibility of graphics processing to the game engine and not the GPU.
+
+Run photorealistic graphics on original PS2 hardware by shifting the burden of rendering from the GPU to the game engine.
+
+Instead of brute-forcing visuals at runtime, we precompute everything the player will see—so the GPU does less, and the game looks better.
+
+---
 
 ## 🔧 What Is BareMetal?
 BareMetal is an open-source, ultra-optimized game engine forked from Godot with a radical goal:
