@@ -22,7 +22,7 @@ BareMetal is an open-source, ultra-optimized game engine forked from Godot with 
 
 ---
 
-## The Industry’s Illusion: How Power Killed Progress
+## The Problem: How Power Killed Progress
 
 For decades, we’ve been sold a lie:
 
@@ -42,8 +42,6 @@ This is _**laziness by design**_ — and it’s killing creativity.
 - **Players** get locked into an upgrade cycle they can’t afford
 
 All while **90% of what’s rendered is invisible to the human eye.**
-
----
 
 ### This is the feedback loop we are breaking.
 
