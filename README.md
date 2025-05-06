@@ -178,6 +178,33 @@ We're looking for:
 
 ---
 
+## 🚀 The Next Frontier: AI-Powered Game Optimization
+
+> ⚠️ We believe AI should accelerate creativity—not replace it.
+>
+> That's why BareMetal is open-source.  
+> So no company can quietly give AI creative control, and no artist can be silently replaced.
+>
+> Our tools are transparent, developer-controlled, and opt-in.  
+> Because illusion should be engineered by humans—not dictated by machines.
+
+Once we’ve proven that photorealism can run on a PS2, we’re not stopping—we’re scaling.
+
+Our next goal is to build a toolchain that lets developers take **older games**—from any era—and run them through an **AI-powered visual optimizer** that:
+
+- Replaces real-time effects with perceptually baked equivalents
+- Suggests performance-saving approximations
+- Auto-generates lighting, AO, reflections, and fog using perceptual models
+- Outputs a visually upgraded version that runs better than the original
+
+> Drop in an old game. Let AI do the grunt work. Polish it by hand. Ship something timeless.
+
+Whether it's a GameCube-era shooter or a Unity prototype from 2016—**we want to make it look better and run faster than ever.**
+
+This is not just about making new games.  
+It’s about **preserving and upgrading everything we already built**—the right way.
+
+
 ## 👤 Author & Founder
 
 This project was created and is maintained by **Trevor Honer**.  
