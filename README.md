@@ -20,22 +20,41 @@ BareMetal is an open-source, ultra-optimized game engine forked from Godot with 
 
 > Run photorealistic graphics on the lowest possible hardware — and expose the industry's obsession with GPU bloat.
 
-## 💥 Why This Matters: The Code Revolution
+---
 
-For decades, we’ve been told the only way to experience better graphics is to buy better hardware. This was never about progress — it was about profit.
+## The Industry’s Illusion: How Power Killed Progress
 
-Every few years, the cycle repeats:
-- New games demand more power
-- Players are forced to upgrade their GPUs
-- Indie devs fall behind or give up
-- Creativity suffers
-- AMD and NVIDIA post record profits
+For decades, we’ve been sold a lie:
 
-But what if that entire model is built on a lie?
+That in order to achieve better graphics, we need **bigger GPUs**.  
+More cores. More memory. More power.
 
-**BareMetal proves that you don’t need a $1,000 GPU to achieve photorealism. You just need better code.**
+Meanwhile, game engines have grown **bloated**, **inefficient**, and **dependent**.  
+Developers offload lighting, shadows, reflections—even resolution—onto the GPU at runtime, instead of building these effects intelligently into the game itself.
 
-We’ve been chasing hardware when we should’ve been chasing optimization. That ends now.
+This is not innovation.  
+This is _**laziness by design**_ — and it’s killing creativity.
+
+- **AMD and NVIDIA** grow profits  
+- **Sony, Microsoft, and Nintendo** build “more powerful” consoles  
+- **Developers** get lazier  
+- **Engines** grow slower  
+- **Players** get locked into an upgrade cycle they can’t afford
+
+All while **90% of what’s rendered is invisible to the human eye.**
+
+---
+
+### This is the feedback loop we are breaking.
+
+We believe that true advancement comes not from **brute-forcing hardware**,  
+but from **mastering the engine**.
+
+The game engine should be the source of **illusion** and **artistry** — not the GPU.
+
+> You wouldn’t build a bigger car engine before optimizing the fuel.  
+>  
+> So why are we maxing out GPUs before maxing out the game engine?
 
 ---
 
